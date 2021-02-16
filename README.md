@@ -1,4 +1,4 @@
-### Hi there, I'm Sandeep 👋
+### Hi there, I'm Goutam 👋
 
 ## Problem solver, Tech savvy, Coder @ZirohLabs
 - 🔭 I’m currently working @ ZirohLabs, Bangalore
