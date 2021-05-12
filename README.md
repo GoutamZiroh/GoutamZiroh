@@ -3,7 +3,7 @@
 ## Problem solver, Tech savvy, Coder @ZirohLabs
 - 🔭 I’m currently working @ ZirohLabs, Bangalore
 - 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about JavaScript, Angular, Electron js, React js, Typescript, web-components
+- 💬 Ask me about JavaScript, Angular, Electron-js, React-js, React-Native Typescript, web-components
 - ⚡ Fun fact: ...
 
 
